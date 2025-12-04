@@ -1,0 +1,36 @@
+The quick brown fox jumps over the lazy dog. The dog was sleeping peacefully in the garden.
+It was a beautiful sunny day, with blue skies and white clouds floating overhead.
+Birds were singing their sweet melodies, creating a harmonious symphony in nature.
+
+All the world's a stage, and all the men and women merely players.
+They have their exits and their entrances, and one man in his time plays many parts.
+
+To be or not to be, that is the question: whether 'tis nobler in the mind to suffer
+the slings and arrows of outrageous fortune, or to take arms against a sea of troubles.
+
+The cat sat peacefully on the windowsill, watching the birds outside.
+She could hear the chirping sounds and see their colorful feathers.
+The morning sun was warm on her fur, making her feel drowsy and content.
+
+It was the best of times, it was the worst of times, it was the age of wisdom,
+it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity.
+
+Hello world! This is a sample text file for training the text generation model.
+You can replace this file with any text you want to train the model on.
+The model will learn the patterns and styles from your text.
+
+Python is a powerful programming language. It is easy to learn and understand.
+Machine learning is a subset of artificial intelligence.
+Deep learning uses neural networks to learn from data.
+
+A journey of a thousand miles begins with a single step.
+Success is not final, failure is not fatal.
+It is the courage to continue that counts.
+
+The moon shines brightly in the night sky, illuminating the path ahead.
+Stars twinkle like diamonds scattered across the darkness.
+Night brings peace and silence to the world below.
+
+Dancing is the art of movement set to music. It brings joy and expression to the soul.
+Every step tells a story, every gesture carries emotion and meaning.
+Through dance, we connect with ourselves and with others around us.

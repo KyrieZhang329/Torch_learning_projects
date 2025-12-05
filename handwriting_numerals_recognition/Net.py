@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 
-
 class HandwritingNet(nn.Module):
     def __init__(self):
         super(HandwritingNet, self).__init__()
